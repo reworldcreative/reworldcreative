@@ -5,7 +5,9 @@
     <a href="#en-version">🇺🇸 <b>English Version</b></a>
   </p>
   
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=%E2%9E%A4+Full-Spectrum+Engineer;%E2%9E%A4+Frontend+%7C+SysAdmin+%7C+DevOps;%E2%9E%A4+Systematic+Approach+%26+Mentorship" alt="Animated Banner" style="pointer-events: none;" />
+<a href="javascript:void(0)" style="cursor: default; pointer-events: none;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=%E2%9E%A4+Full-Spectrum+Engineer;%E2%9E%A4+Frontend+%7C+SysAdmin+%7C+DevOps;%E2%9E%A4+Systematic+Approach+%26+Mentorship" alt="Animated Banner" />
+</a>
 </div>
 
 ---
