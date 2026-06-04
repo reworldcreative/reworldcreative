@@ -15,22 +15,22 @@
 ## 🛠️ Технологічний стек & Компетенції
 
 ### 🟡 Frontend & Core Technologies
-* **Мови програмування & Технології:** `HTML5` · `CSS3` · `SCSS` · `JavaScript (ES6+)` · `TypeScript`
-* **Фреймворки & Бібліотеки:** `React` · `Bootstrap` · `Swiper`
-* **Збірка & Оптимізація:** `Vite` · `Webpack` · `npm` · *Performance Optimization*
+* **Мови програмування & Технології:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* **Фреймворки & Бібліотеки:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Swiper](https://img.shields.io/badge/Swiper-%236332F6.svg?style=for-the-badge&logo=swiper&logoColor=white)
+* **Збірка & Оптимізація:** ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) *Performance Optimization*
 * **Інклюзивність (a11y):** Глибоке знання стандартів **WCAG** для створення доступних та безбар'єрних інтерфейсів ♿
 
 ### 🔵 System Administration & Networking
-* **ОС & Ядро:** Глибоке адміністрування **Linux (Debian)**, керування користувачами, правами доступу, процесами та системними службами.
-* **Автоматизація & Інструменти:** Системне програмування на **Bash**, керування демонами через `systemd`, планування завдань `cron`, робота з регулярними виразами (`regex`).
+* **ОС & Ядро:** Глибоке адміністрування ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white), керування користувачами, правами доступу, процесами та системними службами.
+* **Автоматизація & Інструменти:** Системне програмування на ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white), керування демонами через `systemd`, планування завдань `cron`, робота з регулярними виразами (`regex`).
 * **Мережі & Безпека:** Проєктування та налаштування мереж, робота з протоколами `TCP/IP`, `DNS`, `DHCP`, `NAT`, аналіз мережевого трафіку та маршрутизація.
 * **Захист & Балансування:** Конфігурація міжмережевих екранів (`iptables`, `nftables`), `HTTP/HTTPS`, `WebSockets`, балансувальники навантаження та брандмауери.
-* **Вебсервери:** Розгортання, оптимізація та підтримка `Nginx` та `Apache`.
+* **Вебсервери:** Розгортання, оптимізація та підтримка ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) та ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white).
 
 ### 🟢 DevOps & Databases
-* **CI/CD Автоматизація:** Налаштування пайплайнів автоматизації через `GitHub Actions` та `GitLab CI`.
-* **Бази даних:** Проєктування схем даних та оптимізація запитів у реляційних (`PostgreSQL`, `MySQL`) та нереляційних (`MongoDB`) СУБД.
-* **Контроль версій:** Розширене володіння **Git** (`Git-flow`, робота з гілками, вирішення складних конфліктів).
+* **CI/CD Автоматизація:** Налаштування пайплайнів автоматизації через ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) та ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white).
+* **Бази даних:** Проєктування схем даних та оптимізація запитів у реляційних (![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)) та нереляційних (![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)) СУБД.
+* **Контроль версій:** Розширене володіння ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) (`Git-flow`, робота з гілками, вирішення складних конфліктів).
 
 ---
 
@@ -45,11 +45,11 @@ $ cat mentorship.log
 
 ### 🎯 Поточні цілі та план навчання
 
-* **🐋 Контейнеризація та оркестрація:** `Docker` · `Docker Compose` · `Kubernetes`
-* **🤖 Infrastructure as Code (IaC) та автоматизація:** `Ansible` · `Terraform` · `Jenkins` (Advanced CI/CD)
-* **☁️ Хмарні технології та віртуалізація:** `AWS` · `Proxmox` (On-Premise Virtualization)
-* **📊 Моніторинг та кешування:** `Prometheus & Grafana` · `Redis`
-* **📐 Архітектура та основні мови програмування:** `System Design` · `Python` · `PHP` · `Playwright` (a11y Testing)
+* **🐋 Контейнеризація та оркестрація:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+* **🤖 Infrastructure as Code (IaC) та автоматизація:** ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) (Advanced CI/CD)
+* **☁️ Хмарні технології та віртуалізація:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white) (On-Premise Virtualization)
+* **📊 Моніторинг та кешування:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+* **📐 Архітектура та основні мови програмування:** `System Design` ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white) (a11y Testing)
 
 <details>
 <summary><b>📂 Проєкти та інженерні кейси: Пет-проєкти & Технічні рішення (PAR)</b> (Натисніть, щоб розгорнути)</summary>
@@ -83,23 +83,22 @@ $ cat mentorship.log
 ## 🛠️ Tech Stack & Competencies
 
 ### 🟡 Frontend & Core Technologies
-* **Programming Languages & Tech:** `HTML5` · `CSS3` · `SCSS` · `JavaScript (ES6+)` · `TypeScript`
-* **Frameworks & Libraries:** `React` · `Bootstrap` · `Swiper`
-* **Build Tools & Optimization:** `Vite` · `Webpack` · `npm` · *Performance Optimization*
+* **Programming Languages & Tech:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* **Frameworks & Libraries:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Swiper](https://img.shields.io/badge/Swiper-%236332F6.svg?style=for-the-badge&logo=swiper&logoColor=white)
+* **Build Tools & Optimization:** ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) *Performance Optimization*
 * **Accessibility (a11y):** Deep knowledge of **WCAG** standards for building accessible and barrier-free web interfaces ♿
 
 ### 🔵 System Administration & Networking
-* **OS & Kernel:** Advanced **Linux (Debian)** administration, user management, ACLs, process management, and system services.
-* **Automation & Tools:** System programming with **Bash**, daemon management via `systemd`, `cron` task scheduling, regular expressions (`regex`).
+* **OS & Kernel:** Advanced ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) administration, user management, ACLs, process management, and system services.
+* **Automation & Tools:** System programming with ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white), daemon management via `systemd`, `cron` task scheduling, regular expressions (`regex`).
 * **Networking & Security:** Network design and configuration, deep understanding of `TCP/IP`, `DNS`, `DHCP`, `NAT` protocols, traffic analysis, and routing.
 * **Protection & Balancing:** Configuration of firewalls (`iptables`, `nftables`), securing `HTTP/HTTPS`, `WebSockets`, load balancers, and firewalls.
-* **Web Servers:** Deployment, optimization, and maintenance of `Nginx` and `Apache`.
+* **Web Servers:** Deployment, optimization, and maintenance of ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) and ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white).
 
 ### 🟢 DevOps & Databases
-* **CI/CD Automation:** Setting up automation pipelines via `GitHub Actions` and `GitLab CI`.
-* **Databases:** Database schema design and query optimization in relational (`PostgreSQL`, `MySQL`) and non-relational (`MongoDB`) DBMS.
-* **Version Control:** Advanced **Git** mastery (`Git-flow`, branching strategies, complex conflict resolution).
-
+* **CI/CD Automation:** Setting up automation pipelines via ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) and ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white).
+* **Databases:** Database schema design and query optimization in relational (![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)) and non-relational (![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)) DBMS.
+* **Version Control:** Advanced ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) mastery (`Git-flow`, branching strategies, complex conflict resolution).
 ---
 
 ## 📚 Mentorship & Teaching Experience
@@ -112,11 +111,11 @@ $ cat mentorship.log
 ```
 ### 🎯 Current Focus & Learning Roadmap
 
-* **🐋 Containerization & Orchestration:** `Docker` · `Docker Compose` · `Kubernetes`
-* **🤖 Infrastructure as Code & Automation:** `Ansible` · `Terraform` · `Jenkins` (Advanced CI/CD)
-* **☁️ Cloud & Virtualization:** `AWS` · `Proxmox` (On-Premise Virtualization)
-* **📊 Monitoring & Caching:** `Prometheus & Grafana` · `Redis`
-* **📐 Architecture & Core Languages:** `System Design` · `Python` · `PHP` · `Playwright` (a11y Testing)
+* **🐋 Containerization & Orchestration:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+* **🤖 Infrastructure as Code & Automation:** ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) (Advanced CI/CD)
+* **☁️ Cloud & Virtualization:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white) (On-Premise Virtualization)
+* **📊 Monitoring & Caching:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+* **📐 Architecture & Core Languages:** `System Design` ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white) (a11y Testing)
 
 <details>
 <summary><b>📂 Projects and Engineering Case Studies: Pet Projects & Technical Solutions (PAR)</b> (Click to expand)</summary>
