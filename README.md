@@ -4,8 +4,12 @@
     &nbsp; | &nbsp;
     <a href="#en-version">🇺🇸 <b>English Version</b></a>
   </p>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=%E2%9E%A4+Full-Spectrum+Engineer;%E2%9E%A4+Frontend+%7C+SysAdmin+%7C+DevOps;%E2%9E%A4+Systematic+Approach+%26+Mentorship" alt="Animated Banner" />
+</div>
+
+<div align="center">
+  <div style="pointer-events: none; display: inline-block;">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=%E2%9E%A4+Full-Spectrum+Engineer;%E2%9E%A4+Frontend+%7C+SysAdmin+%7C+DevOps;%E2%9E%A4+Systematic+Approach+%26+Mentorship" alt="Animated Banner" />
+  </div>
 </div>
 
 ---
