@@ -43,13 +43,13 @@ $ cat mentorship.log
 [INFO]  Створення та валідація лабораторних робіт, тестів та методичних комплексів для студентів.
 ```
 
-### 🎯 Current Focus & Learning Roadmap
+### 🎯 Поточні цілі та план навчання
 
-* **🐋 Containerization & Orchestration:** `Docker` · `Docker Compose` · `Kubernetes`
-* **🤖 Infrastructure as Code & Automation:** `Ansible` · `Terraform` · `Jenkins` (Advanced CI/CD)
-* **☁️ Cloud & Virtualization:** `AWS` · `Proxmox` (On-Premise Virtualization)
-* **📊 Monitoring & Caching:** `Prometheus & Grafana` · `Redis`
-* **📐 Architecture & Core Languages:** `System Design` · `Python` · `PHP` · `Playwright` (a11y Testing)
+* **🐋 Контейнеризація та оркестрація:** `Docker` · `Docker Compose` · `Kubernetes`
+* **🤖 Infrastructure as Code (IaC) та автоматизація:** `Ansible` · `Terraform` · `Jenkins` (Advanced CI/CD)
+* **☁️ Хмарні технології та віртуалізація:** `AWS` · `Proxmox` (On-Premise Virtualization)
+* **📊 Моніторинг та кешування:** `Prometheus & Grafana` · `Redis`
+* **📐 Архітектура та основні мови програмування:** `System Design` · `Python` · `PHP` · `Playwright` (a11y Testing)
 
 <details>
 <summary><b>📂 Проєкти та інженерні кейси: Пет-проєкти & Технічні рішення (PAR)</b> (Натисніть, щоб розгорнути)</summary>
